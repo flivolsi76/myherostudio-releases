@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.1",
+    "version": "0.12.2",
     "channel": "stable",
     "date": "2026-10-17",
-    "notes": "Corretto l'avviso «installazione danneggiata» all'avvio.",
+    "notes": "Corretto l'avviso «installazione danneggiata» all'avvio; l'avviso sulle novità dell'AI Act compare solo con un progetto aperto.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.1-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.1/MyHeroStudio-Setup-0.12.1-x64.exe",
-      "sha256": "4dcf49865eb4d623c41ab602a80af6ac86086254638084c2f8aee5368ff43be9",
-      "size": 175407930
+      "name": "MyHeroStudio-Setup-0.12.2-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.2/MyHeroStudio-Setup-0.12.2-x64.exe",
+      "sha256": "dd672a8c263a279fbb3a77daddde765eac9481a3daba8bfdd7d5b48b62da0d48",
+      "size": 175413724
     }
   },
-  "signature": "XPrx4/0bnNGJbZrnpcVVv09oG2GJIIScgKwAXN9VdHHBCuD50PmY6tew0l2rz61PrIu/aEqEMDnnJdyxklmiAA=="
+  "signature": "nvakDfWpb4u2ncxZikBizclVVa7CLkuuyd3M3ruIUHB4tFFvQrd2mhGy+dxv2D6hkh0kKQfgxxwfHGpBSLa0AQ=="
 }
