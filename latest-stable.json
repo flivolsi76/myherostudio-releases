@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.0",
+    "version": "0.12.1",
     "channel": "stable",
     "date": "2026-10-17",
-    "notes": "Prima versione pubblica di MyHeroStudio.",
+    "notes": "Corretto l'avviso «installazione danneggiata» all'avvio.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.0-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.0/MyHeroStudio-Setup-0.12.0-x64.exe",
-      "sha256": "134310a68d930d629bd7f8c2ca70f79f2fe5a4c8396e5434cc17216da3b30a6b",
-      "size": 175412094
+      "name": "MyHeroStudio-Setup-0.12.1-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.1/MyHeroStudio-Setup-0.12.1-x64.exe",
+      "sha256": "4dcf49865eb4d623c41ab602a80af6ac86086254638084c2f8aee5368ff43be9",
+      "size": 175407930
     }
   },
-  "signature": "q383GiWDdfFCyOOMeJ6thoTknpogTPdmryMunPaiMle8ZhQC9yeCOsvfJXRQxwaIty8mfId8F+Mk4S0aGpdjBQ=="
+  "signature": "XPrx4/0bnNGJbZrnpcVVv09oG2GJIIScgKwAXN9VdHHBCuD50PmY6tew0l2rz61PrIu/aEqEMDnnJdyxklmiAA=="
 }
