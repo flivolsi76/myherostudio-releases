@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.13",
+    "version": "0.12.14",
     "channel": "stable",
     "date": "2026-10-17",
-    "notes": "Pulsante «Aggiorna a…» sempre visibile nella barra di stato; riquadro File modificati che parte abbassato; i motivi delle modifiche nella lingua dell'editor; file protetti difesi anche dagli script scritti nel comando.",
+    "notes": "File modificati come in Cursor: riquadro sotto la chat che parte abbassato, sezioni chiuse, pulsante «Annulla tutto» per l'ultima richiesta; altezze corrette sotto la chat.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.13-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.13/MyHeroStudio-Setup-0.12.13-x64.exe",
-      "sha256": "2d124380077b1f86e3245300a242780e40c139a1ab9423f63b2c14f3c3ddbada",
-      "size": 175425788
+      "name": "MyHeroStudio-Setup-0.12.14-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.14/MyHeroStudio-Setup-0.12.14-x64.exe",
+      "sha256": "70195ced762ec6dba382d94fa459f5ab4914705cd1ba2c95a64e7b32ab44cc7f",
+      "size": 175428375
     }
   },
-  "signature": "lvj4ma/p6NoXbqlEmb7a8U0QYddzunYKCRVJ5uYAGjIQbF2yS4uIjeQw0z1qn46ET8nAI/TKMz4quQAAh3+VCA=="
+  "signature": "OFHzGTXAR3Y4Xwgshww6axgjliePM3SrYImEZjrtOXeJ22jO2TzPMzQTu089LdCA5SZyzvPK8gX2kOuoU3MMAg=="
 }
