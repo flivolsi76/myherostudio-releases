@@ -1,7 +1,7 @@
 # MyHeroStudio
 
 **L'ambiente di sviluppo che tiene sotto controllo ogni modifica dell'intelligenza artificiale.**
-Di [MyHeroSoft](https://myherosoft.com/) · [myherostudio.myherosoft.it](https://myherostudio.myherosoft.it)
+Di [MyHeroSoft](https://myherosoft.com/) · [myherostudio.myherosoft.com](https://myherostudio.myherosoft.com)
 
 MyHeroStudio è un editor per Windows costruito attorno a **Claude Code**: Claude scrive il codice, MyHeroStudio ti dice sempre *cosa* ha cambiato, *perché*, *cosa coinvolge* e *come tornare indietro*. Regole, protezioni e controlli girano sul tuo computer, prima che le modifiche arrivino ai file.
 
@@ -65,7 +65,7 @@ Requisiti: Windows 10 o 11 a 64 bit, un abbonamento Claude o una chiave API Anth
 
 ## Prezzo
 
-**30 giorni gratis**, senza carta. Poi abbonamento mensile per utente (prezzo sulla [pagina del prodotto](https://myherostudio.myherosoft.it)). Allo scadere della licenza i tuoi progetti e Claude Code restano come sono: si spengono solo le funzioni di MyHeroStudio.
+**30 giorni gratis**, senza carta. Poi abbonamento mensile per utente (prezzo sulla [pagina del prodotto](https://myherostudio.myherosoft.com)). Allo scadere della licenza i tuoi progetti e Claude Code restano come sono: si spengono solo le funzioni di MyHeroStudio.
 
 ---
 
