@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.16",
+    "version": "0.12.17",
     "channel": "stable",
     "date": "2026-10-18",
-    "notes": "Licenza: prova gratuita di 30 giorni con la sola email, abbonamento mensile, una licenza per PC; versione e stato della licenza nella barra di stato; menu Help ripulito con Controlla aggiornamenti; About di MyHeroStudio con il pulsante degli aggiornamenti.",
+    "notes": "Licenza con la sola chiave: iscrizione, prova gratuita e abbonamento dal sito (con i dati per la fattura); richiesta Consenti che resta aperta finché non si sceglie.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.16-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.16/MyHeroStudio-Setup-0.12.16-x64.exe",
-      "sha256": "5614d881ad328ee7732837874579ae4317f19160c5be3e1a24ca08aed360a4db",
-      "size": 175444451
+      "name": "MyHeroStudio-Setup-0.12.17-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.17/MyHeroStudio-Setup-0.12.17-x64.exe",
+      "sha256": "db51046361bfae47720cc545f577ee332040a1050a95fb2b284294196624a6be",
+      "size": 175447334
     }
   },
-  "signature": "aF2KBb3CpBJAqmcePIDXlw8dOkAzZS8hvAiUCAcA5AF9Rf8bri48V3nz2tnHxzZMVU8xIaasLakZp6gav11IDA=="
+  "signature": "g/N6zg9cMS5wD48Z1+CtKSO5RE2DFMwwcvAJFuMPwtgtWJd50nKcNb8frmqzAhoGnkTew4owwsMm9TLcQKIjDg=="
 }
