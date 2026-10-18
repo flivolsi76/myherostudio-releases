@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.14",
+    "version": "0.12.15",
     "channel": "stable",
-    "date": "2026-10-17",
-    "notes": "File modificati come in Cursor: riquadro sotto la chat che parte abbassato, sezioni chiuse, pulsante «Annulla tutto» per l'ultima richiesta; altezze corrette sotto la chat.",
+    "date": "2026-10-18",
+    "notes": "Skill predefinita karpathy-guidelines in ogni progetto; larghezze standard del layout (centro 65%, chat 35%) mantenute da sole.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.14-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.14/MyHeroStudio-Setup-0.12.14-x64.exe",
-      "sha256": "70195ced762ec6dba382d94fa459f5ab4914705cd1ba2c95a64e7b32ab44cc7f",
-      "size": 175428375
+      "name": "MyHeroStudio-Setup-0.12.15-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.15/MyHeroStudio-Setup-0.12.15-x64.exe",
+      "sha256": "cf0afecb22902a7f6db484b3abb5ee0ad51cd5992a4f1a41b5eaf882490c57a0",
+      "size": 175430479
     }
   },
-  "signature": "OFHzGTXAR3Y4Xwgshww6axgjliePM3SrYImEZjrtOXeJ22jO2TzPMzQTu089LdCA5SZyzvPK8gX2kOuoU3MMAg=="
+  "signature": "sJ9dmhKh8H7V5gNDQ+F4RLIZOSnFCIPQC4rLKMuALk0OnF0vcH+y1mN4VPC6lFYIIcAJpZzIXPeNQRUlg9lOCg=="
 }
