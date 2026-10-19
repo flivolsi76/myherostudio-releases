@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.22",
+    "version": "0.12.23",
     "channel": "stable",
     "date": "2026-10-19",
-    "notes": "MyHeroStudio non attivo: i pulsanti e i comandi portano alla pagina della licenza invece di dare errore.",
+    "notes": "MyHeroStudio non attivo: l'ingranaggio riapre la barra delle Impostazioni con il pulsante Attiva MyHeroStudio.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.22-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.22/MyHeroStudio-Setup-0.12.22-x64.exe",
-      "sha256": "86d8061236ac75d919f5160e001630a83cb22df959a83ea4d90963ec43242fea",
-      "size": 175453386
+      "name": "MyHeroStudio-Setup-0.12.23-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.23/MyHeroStudio-Setup-0.12.23-x64.exe",
+      "sha256": "80d5bdeaa4f15ba89f8da087ad4c10d2a5ffa77068e7393d3348b8e52537b104",
+      "size": 175458690
     }
   },
-  "signature": "ST2y32uMKzbV8XS75reGJi0z5mTL52Yr+u78DkIOV+1eZw2UqFqWglg3uIQ3HGJ1i8QtxfXJay41eh4ufS6xBg=="
+  "signature": "3JtkoUqPQnIGUPlVmeNz9MS6/g0C6kuTtbe5fiSsS3g0wcFNMKSHFg5yKaaUlSR+YPbt2K6ScCjMastVXwzdAQ=="
 }
