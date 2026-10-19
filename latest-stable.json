@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.20",
+    "version": "0.12.21",
     "channel": "stable",
     "date": "2026-10-19",
-    "notes": "File e browser si aprono sempre al centro: colonna della chat e File modificati bloccati; larghezza minima delle colonne.",
+    "notes": "Senza licenza la chat di Claude non si usa; utilizzo di Claude aggiornato quando cambi account.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.20-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.20/MyHeroStudio-Setup-0.12.20-x64.exe",
-      "sha256": "4b9dbd0c437f107a870338c914a060f643a7ed8e3004eabb6b0f2346b103581c",
-      "size": 175452105
+      "name": "MyHeroStudio-Setup-0.12.21-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.21/MyHeroStudio-Setup-0.12.21-x64.exe",
+      "sha256": "d424fdcbfec9f403493937cd4b26d9d68a179a4eee920a961a1a14602a8299a0",
+      "size": 175451632
     }
   },
-  "signature": "UIUlvNxncNTzJ3JsNZV7fu/A/HPNqrNhYVaO7YVyRRA8pIm9TY/LWiw57BSfvp02J5LO7xxyzlaTUOtQBYaZDw=="
+  "signature": "1CWfARJiwe00v0o5hSUFvhodNuW03Te19OcPDWcT3y2Fao2brwOosNF8KBkTxH+KasstrpdXyQiFLolnDQXBDA=="
 }
