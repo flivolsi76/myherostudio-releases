@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.27",
+    "version": "0.12.28",
     "channel": "stable",
     "date": "2026-10-20",
-    "notes": "Promemoria di fine prova negli ultimi 5 giorni, con il link per abbonarsi.",
+    "notes": "Layout: le larghezze scelte trascinando restano; tornano standard solo con Sistema layout. Impostazioni riordinate; uso di Claude senza [object Object]; Home leggibile su finestre strette.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.27-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.27/MyHeroStudio-Setup-0.12.27-x64.exe",
-      "sha256": "78a56865950b437d640a5a4bda61c2aa7fead98709655957f6f3b7e4be9521d2",
-      "size": 175477385
+      "name": "MyHeroStudio-Setup-0.12.28-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.28/MyHeroStudio-Setup-0.12.28-x64.exe",
+      "sha256": "3804d33a74b6eb9daaf4958dc210baeece4de95f2d039fa2e4e1d2d2c76c5305",
+      "size": 175480151
     }
   },
-  "signature": "7m0jTrwydl/UvurOXBaw46w7F5f3Y0eGGpbmdqmjM6ytC8BB+3fn79pTbbpdcpfiQTZoknpDQ7X/sHGM/wVqBA=="
+  "signature": "olM0i4yBWjCbOI1JYWeBjJzcPOWk4qXjmNnEQwTwwZ0kz6Ye6nNett4crefExBH1Sq2U1BFOl98CJFbksC8xBg=="
 }
