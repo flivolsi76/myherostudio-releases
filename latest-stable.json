@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.26",
+    "version": "0.12.27",
     "channel": "stable",
     "date": "2026-10-20",
-    "notes": "Browser per Claude: avvio del sito, errori e richieste fallite, clic e campi affidabili, foto intera, prove nella Storia.",
+    "notes": "Promemoria di fine prova negli ultimi 5 giorni, con il link per abbonarsi.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.26-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.26/MyHeroStudio-Setup-0.12.26-x64.exe",
-      "sha256": "4f6d1c8d6449dd3a13443e051ef5e3f91f9570d9d0b945120eeb88b296eb05ac",
-      "size": 175476970
+      "name": "MyHeroStudio-Setup-0.12.27-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.27/MyHeroStudio-Setup-0.12.27-x64.exe",
+      "sha256": "78a56865950b437d640a5a4bda61c2aa7fead98709655957f6f3b7e4be9521d2",
+      "size": 175477385
     }
   },
-  "signature": "412wXAO3rTZ0asy83urdeUQXiTqbjfr7hJglBspdkekAleF7J4XIutNU3QJN5NbAEupMJZW+CJ/1/oeNr2LhDQ=="
+  "signature": "7m0jTrwydl/UvurOXBaw46w7F5f3Y0eGGpbmdqmjM6ytC8BB+3fn79pTbbpdcpfiQTZoknpDQ7X/sHGM/wVqBA=="
 }
