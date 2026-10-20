@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.25",
+    "version": "0.12.26",
     "channel": "stable",
     "date": "2026-10-20",
-    "notes": "File modificati: un pulsante che apre la lista al centro come un file; con la X torna il pulsante.",
+    "notes": "Browser per Claude: avvio del sito, errori e richieste fallite, clic e campi affidabili, foto intera, prove nella Storia.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.25-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.25/MyHeroStudio-Setup-0.12.25-x64.exe",
-      "sha256": "f9f853a0560157f9b3bd55f10a37074991987358ecfaa6b07650795c3268b045",
-      "size": 175445906
+      "name": "MyHeroStudio-Setup-0.12.26-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.26/MyHeroStudio-Setup-0.12.26-x64.exe",
+      "sha256": "4f6d1c8d6449dd3a13443e051ef5e3f91f9570d9d0b945120eeb88b296eb05ac",
+      "size": 175476970
     }
   },
-  "signature": "53JzXgvyLyf4jcf+7sl42NLCfyjK6nw1DLaDguVYXlm3bjXe25+9D6F+Hzj0HwMsxnCFUYB+9X6p29QvDVFOBA=="
+  "signature": "412wXAO3rTZ0asy83urdeUQXiTqbjfr7hJglBspdkekAleF7J4XIutNU3QJN5NbAEupMJZW+CJ/1/oeNr2LhDQ=="
 }
