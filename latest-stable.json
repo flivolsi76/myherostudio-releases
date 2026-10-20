@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.23",
+    "version": "0.12.24",
     "channel": "stable",
-    "date": "2026-10-19",
-    "notes": "MyHeroStudio non attivo: l'ingranaggio riapre la barra delle Impostazioni con il pulsante Attiva MyHeroStudio.",
+    "date": "2026-10-20",
+    "notes": "Layout: file e browser sempre al centro anche dopo il riavvio; File modificati che si apre senza salti; larghezza minima di centro e chat.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.23-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.23/MyHeroStudio-Setup-0.12.23-x64.exe",
-      "sha256": "80d5bdeaa4f15ba89f8da087ad4c10d2a5ffa77068e7393d3348b8e52537b104",
-      "size": 175458690
+      "name": "MyHeroStudio-Setup-0.12.24-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.24/MyHeroStudio-Setup-0.12.24-x64.exe",
+      "sha256": "9865aa7a930c38ecc3e7e4a32709be7bb5681bdcc0340decb3ab141804d2d802",
+      "size": 175459789
     }
   },
-  "signature": "3JtkoUqPQnIGUPlVmeNz9MS6/g0C6kuTtbe5fiSsS3g0wcFNMKSHFg5yKaaUlSR+YPbt2K6ScCjMastVXwzdAQ=="
+  "signature": "up/1cU8w26Pi7xkuF4/ndwnElgfGFyNOqBFyQVkj49Qbroa8gWcFdMn3Dog7NoGDd2Bk6gXZr+v700TJi64wCw=="
 }
