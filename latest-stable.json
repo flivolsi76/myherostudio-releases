@@ -1,15 +1,15 @@
 {
   "release": {
-    "version": "0.12.24",
+    "version": "0.12.25",
     "channel": "stable",
     "date": "2026-10-20",
-    "notes": "Layout: file e browser sempre al centro anche dopo il riavvio; File modificati che si apre senza salti; larghezza minima di centro e chat.",
+    "notes": "File modificati: un pulsante che apre la lista al centro come un file; con la X torna il pulsante.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.24-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.24/MyHeroStudio-Setup-0.12.24-x64.exe",
-      "sha256": "9865aa7a930c38ecc3e7e4a32709be7bb5681bdcc0340decb3ab141804d2d802",
-      "size": 175459789
+      "name": "MyHeroStudio-Setup-0.12.25-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.25/MyHeroStudio-Setup-0.12.25-x64.exe",
+      "sha256": "f9f853a0560157f9b3bd55f10a37074991987358ecfaa6b07650795c3268b045",
+      "size": 175445906
     }
   },
-  "signature": "up/1cU8w26Pi7xkuF4/ndwnElgfGFyNOqBFyQVkj49Qbroa8gWcFdMn3Dog7NoGDd2Bk6gXZr+v700TJi64wCw=="
+  "signature": "53JzXgvyLyf4jcf+7sl42NLCfyjK6nw1DLaDguVYXlm3bjXe25+9D6F+Hzj0HwMsxnCFUYB+9X6p29QvDVFOBA=="
 }
