@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.30",
+    "version": "0.12.31",
     "channel": "stable",
     "date": "2026-10-21",
-    "notes": "Primo aggiornamento leggero (solo l'estensione, circa 1,5 MB). Metodo: Ferma interrompe anche i test in verifica. Nomi interni MyHeroStudio completati. Codice riordinato.",
+    "notes": "Aggiornamento leggero più affidabile: aspetta solo il MyHeroStudio che si chiude, un aggiornamento alla volta.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.30-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.30/MyHeroStudio-Setup-0.12.30-x64.exe",
-      "sha256": "7f98c3b4bfd65db79a32650259b02c08c8f7c78aff0244fd7c20a09153db7c26",
-      "size": 175483693
+      "name": "MyHeroStudio-Setup-0.12.31-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.31/MyHeroStudio-Setup-0.12.31-x64.exe",
+      "sha256": "6c2bf0cb937cd925cef876033f764917832de444ac5e0a5389220e697e32b64e",
+      "size": 175485197
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.30.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.30/MyHeroStudio-estensione-0.12.30.tar.gz",
-      "sha256": "1b42e14f806107721b6e057ec69657dedabad04f3bb56d0ffc5f8d2e6b21ce44",
-      "size": 1498146,
+      "name": "MyHeroStudio-estensione-0.12.31.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.31/MyHeroStudio-estensione-0.12.31.tar.gz",
+      "sha256": "7846996da7f95101c3638aafae0d405c7b9538e7adb461a1af51af031c144711",
+      "size": 1496579,
       "editor": "1.135.06055"
     }
   },
-  "signature": "vNyN8rSzDYleltPEnEZa2n0a2qJ5m9DTIm6nlaMtg8mMtJxT52H9AvyWsgXdoO0rUZa89pbwHB6dgK8mcY+aAA=="
+  "signature": "d1bbzgUVImEllPCLUGx9N4qoM1iUaztsMejWq+h5pZ7Bt96bROYF+Sqq4j+v+BPte8vhwagrzeaTkKnIVrpqAg=="
 }
