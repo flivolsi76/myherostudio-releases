@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.33",
+    "version": "0.12.34",
     "channel": "stable",
     "date": "2026-10-23",
-    "notes": "«Apri progetto» propone di usare lo stesso accesso Claude del progetto aperto. La chat torna nella sua colonna. Corretti: chat senza accesso all'avvio e avviso del browser integrato.",
+    "notes": "Server del progetto: Claude può usare i tuoi server (SSH e SFTP) tramite MyHeroStudio. Password e chiavi restano nel portachiavi sicuro e Claude non le vede mai; ogni comando o file ti chiede conferma. Nuovo interruttore per non chiedere più conferma nel browser integrato.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.33-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.33/MyHeroStudio-Setup-0.12.33-x64.exe",
-      "sha256": "452e118d8d7de15be6ffd7f3e2738c497f2f90f08fd2a62c8ad813badb213ed0",
-      "size": 175620000
+      "name": "MyHeroStudio-Setup-0.12.34-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.34/MyHeroStudio-Setup-0.12.34-x64.exe",
+      "sha256": "83cc5ecdbd6207f765819ed28ea6929c6e176aff04c9e259558fa7d69bd5f106",
+      "size": 176082163
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.33.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.33/MyHeroStudio-estensione-0.12.33.tar.gz",
-      "sha256": "b4a6198bdd5e35d990f527f100a5dae3c5e7ab5a59b27e898949d0b330142a79",
-      "size": 1672395,
+      "name": "MyHeroStudio-estensione-0.12.34.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.34/MyHeroStudio-estensione-0.12.34.tar.gz",
+      "sha256": "6743271cce79ac2084c286aee1102a2e8b8dccc9c66ec7b20b4fd8ba67398b9c",
+      "size": 2279449,
       "editor": "1.135.06055"
     }
   },
-  "signature": "9lSLR+1bgLd2WcMzNH7/fr2eLX485CEHPjzzkrAT1l68+78LzmqW9gD8zskoS5S4UqTRy5X3roPAshkbjlerBw=="
+  "signature": "/3uEvDFhOb3WePtXVF4+nv4pKQU5KAKq0EqJk7RSyx/p/5uMP0SoFsLpZWbiNQpLLJXvR8z/GngWZ95D7Xl2Ag=="
 }
