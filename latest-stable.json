@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.35",
+    "version": "0.12.36",
     "channel": "stable",
     "date": "2026-10-24",
-    "notes": "Server del progetto: modulo per SSH, FTP e database con tabella, modifica e rimozione; i comandi non vanno più in timeout sugli hosting Plesk; ogni errore di connessione spiega il motivo; il collegamento ai server non si perde più dopo una modifica. File e browser si aprono sempre al centro, senza doppioni.",
+    "notes": "Conferma per ogni server a tre livelli: sempre, solo per le operazioni che scrivono, mai (dopo un avviso). Server disattivabili senza rimuoverli. Nuova linguetta «Registro server» con ogni operazione, chi l'ha autorizzata e l'esito. Icona Browser in basso. File e browser sempre al centro, senza doppioni. Più sicurezza: letture di file con segreti e download chiedono conferma. Correzioni varie.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.35-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.35/MyHeroStudio-Setup-0.12.35-x64.exe",
-      "sha256": "c981a4a744d53e89df2831773e5e13774e128ee4f8efccd2936e11b040f17552",
-      "size": 176098581
+      "name": "MyHeroStudio-Setup-0.12.36-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.36/MyHeroStudio-Setup-0.12.36-x64.exe",
+      "sha256": "5f58477e421f43b3f16acbe8d8899362ec63965e2caadf22d3927aa8d53c6706",
+      "size": 176119232
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.35.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.35/MyHeroStudio-estensione-0.12.35.tar.gz",
-      "sha256": "94c35346434af7e889e0d5b2792452a2a293fda7d7ceeba174d08f1cdbcb945d",
-      "size": 2297062,
+      "name": "MyHeroStudio-estensione-0.12.36.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.36/MyHeroStudio-estensione-0.12.36.tar.gz",
+      "sha256": "16b619c20afbb1a5278e9c5303b292a27a5b20f3fef594d2e6f4d2c7a8723352",
+      "size": 2314380,
       "editor": "1.135.06055"
     }
   },
-  "signature": "Elo+fnw9GusqcUEPp7aRLwx5ln/9PwmF0f+Y54UoxEltQC52BhCTopB14TpHXxA5FPIwvpnG3LLJSq99HIISCw=="
+  "signature": "b1xjzlJEKwZ6ipGikpYwCvDOD3nqARzgIlxpk7SjwZFybZsZZEW6COLFJPr2ETcCzfDtJKccd7Ia8b+ZkOODCw=="
 }
