@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.34",
+    "version": "0.12.35",
     "channel": "stable",
-    "date": "2026-10-23",
-    "notes": "Server del progetto: Claude può usare i tuoi server (SSH e SFTP) tramite MyHeroStudio. Password e chiavi restano nel portachiavi sicuro e Claude non le vede mai; ogni comando o file ti chiede conferma. Nuovo interruttore per non chiedere più conferma nel browser integrato.",
+    "date": "2026-10-24",
+    "notes": "Server del progetto: modulo per SSH, FTP e database con tabella, modifica e rimozione; i comandi non vanno più in timeout sugli hosting Plesk; ogni errore di connessione spiega il motivo; il collegamento ai server non si perde più dopo una modifica. File e browser si aprono sempre al centro, senza doppioni.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.34-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.34/MyHeroStudio-Setup-0.12.34-x64.exe",
-      "sha256": "83cc5ecdbd6207f765819ed28ea6929c6e176aff04c9e259558fa7d69bd5f106",
-      "size": 176082163
+      "name": "MyHeroStudio-Setup-0.12.35-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.35/MyHeroStudio-Setup-0.12.35-x64.exe",
+      "sha256": "c981a4a744d53e89df2831773e5e13774e128ee4f8efccd2936e11b040f17552",
+      "size": 176098581
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.34.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.34/MyHeroStudio-estensione-0.12.34.tar.gz",
-      "sha256": "6743271cce79ac2084c286aee1102a2e8b8dccc9c66ec7b20b4fd8ba67398b9c",
-      "size": 2279449,
+      "name": "MyHeroStudio-estensione-0.12.35.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.35/MyHeroStudio-estensione-0.12.35.tar.gz",
+      "sha256": "94c35346434af7e889e0d5b2792452a2a293fda7d7ceeba174d08f1cdbcb945d",
+      "size": 2297062,
       "editor": "1.135.06055"
     }
   },
-  "signature": "/3uEvDFhOb3WePtXVF4+nv4pKQU5KAKq0EqJk7RSyx/p/5uMP0SoFsLpZWbiNQpLLJXvR8z/GngWZ95D7Xl2Ag=="
+  "signature": "Elo+fnw9GusqcUEPp7aRLwx5ln/9PwmF0f+Y54UoxEltQC52BhCTopB14TpHXxA5FPIwvpnG3LLJSq99HIISCw=="
 }
