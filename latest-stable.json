@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.37",
+    "version": "0.12.38",
     "channel": "stable",
     "date": "2026-10-26",
-    "notes": "Nuova linguetta «Server» per i server del progetto, prima di «Skills». Layout più stabile: i file si aprono sempre al centro, niente colonne vuote a destra della chat; un file già aperto cliccato di nuovo resta dov'è; chiudendo l'ultimo file torna la scheda MyHeroStudio. Le Impostazioni si aggiornano subito dopo logout o cambio account.",
+    "notes": "Nuova guida del primo avvio: lingua, Claude Code, progetto, accesso a Claude e server di staging facoltativo, saltabile e riapribile dalle Impostazioni. La lingua scelta nell'installer diventa quella dell'editor. La tabella dei server si aggiorna sempre, quando aggiungi, provi o rimuovi un server, anche dalla chat. Avvisi più chiari sulle letture senza conferma.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.37-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.37/MyHeroStudio-Setup-0.12.37-x64.exe",
-      "sha256": "d10bc401b11691e62ef4ad90b7c6ab97bd9609b57ada91de47b53e5b58631bfd",
-      "size": 176117695
+      "name": "MyHeroStudio-Setup-0.12.38-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.38/MyHeroStudio-Setup-0.12.38-x64.exe",
+      "sha256": "84187253c6593ef9bd4d6b44e56320262cbdfffada131a8334d9306b108f783d",
+      "size": 176131189
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.37.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.37/MyHeroStudio-estensione-0.12.37.tar.gz",
-      "sha256": "72b615e7bae00a733a6e96dae4a41d305f8e423c10a59774bd0fe5d10c4801b7",
-      "size": 2324163,
+      "name": "MyHeroStudio-estensione-0.12.38.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.38/MyHeroStudio-estensione-0.12.38.tar.gz",
+      "sha256": "996f1587a30ea58e62a6c8130f4a85b71e05d18822f0905cb4f2d36581064422",
+      "size": 2341090,
       "editor": "1.135.06055"
     }
   },
-  "signature": "vhCjWyJ1/m94iP/AzZspYi14voKWfeTBMiGwPS9WM2xEWZnLRxdVnIVbbvBZwwpdA+abtrT3PMaeyiD8h3FzBA=="
+  "signature": "SSMRs0XVZL9CUcXOUbFzu70NyrVwTJOSqCuO8/q54X5zbHePSYpRpCWGkx5zCBpdB4WvTsuRK2d9jQAZ3eRvAQ=="
 }
