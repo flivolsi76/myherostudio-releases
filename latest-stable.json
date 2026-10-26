@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.36",
+    "version": "0.12.37",
     "channel": "stable",
-    "date": "2026-10-24",
-    "notes": "Conferma per ogni server a tre livelli: sempre, solo per le operazioni che scrivono, mai (dopo un avviso). Server disattivabili senza rimuoverli. Nuova linguetta «Registro server» con ogni operazione, chi l'ha autorizzata e l'esito. Icona Browser in basso. File e browser sempre al centro, senza doppioni. Più sicurezza: letture di file con segreti e download chiedono conferma. Correzioni varie.",
+    "date": "2026-10-26",
+    "notes": "Nuova linguetta «Server» per i server del progetto, prima di «Skills». Layout più stabile: i file si aprono sempre al centro, niente colonne vuote a destra della chat; un file già aperto cliccato di nuovo resta dov'è; chiudendo l'ultimo file torna la scheda MyHeroStudio. Le Impostazioni si aggiornano subito dopo logout o cambio account.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.36-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.36/MyHeroStudio-Setup-0.12.36-x64.exe",
-      "sha256": "5f58477e421f43b3f16acbe8d8899362ec63965e2caadf22d3927aa8d53c6706",
-      "size": 176119232
+      "name": "MyHeroStudio-Setup-0.12.37-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.37/MyHeroStudio-Setup-0.12.37-x64.exe",
+      "sha256": "d10bc401b11691e62ef4ad90b7c6ab97bd9609b57ada91de47b53e5b58631bfd",
+      "size": 176117695
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.36.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.36/MyHeroStudio-estensione-0.12.36.tar.gz",
-      "sha256": "16b619c20afbb1a5278e9c5303b292a27a5b20f3fef594d2e6f4d2c7a8723352",
-      "size": 2314380,
+      "name": "MyHeroStudio-estensione-0.12.37.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.37/MyHeroStudio-estensione-0.12.37.tar.gz",
+      "sha256": "72b615e7bae00a733a6e96dae4a41d305f8e423c10a59774bd0fe5d10c4801b7",
+      "size": 2324163,
       "editor": "1.135.06055"
     }
   },
-  "signature": "b1xjzlJEKwZ6ipGikpYwCvDOD3nqARzgIlxpk7SjwZFybZsZZEW6COLFJPr2ETcCzfDtJKccd7Ia8b+ZkOODCw=="
+  "signature": "vhCjWyJ1/m94iP/AzZspYi14voKWfeTBMiGwPS9WM2xEWZnLRxdVnIVbbvBZwwpdA+abtrT3PMaeyiD8h3FzBA=="
 }
