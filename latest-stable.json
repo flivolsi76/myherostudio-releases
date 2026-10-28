@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.41",
+    "version": "0.12.42",
     "channel": "stable",
     "date": "2026-10-28",
-    "notes": "Claude risponde nella lingua dell'interfaccia di MyHeroStudio (impostazione ufficiale «language» di Claude Code nel profilo del progetto).",
+    "notes": "Licenze a vita: il programma le mostra come «Licenza a vita». Da questa versione gli aggiornamenti successivi tornano leggeri (solo l'estensione).",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.41-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.41/MyHeroStudio-Setup-0.12.41-x64.exe",
-      "sha256": "fcd2e5a51f1b5d9a81589cb8ad486794ba3ec3e4a7d79af0985bd4a11badf5c6",
-      "size": 176125526
+      "name": "MyHeroStudio-Setup-0.12.42-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.42/MyHeroStudio-Setup-0.12.42-x64.exe",
+      "sha256": "5b51b32129f5c77dd59c029c113a5cde0f0d1fc6f5853f18f279ede814658481",
+      "size": 176133157
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.41.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.41/MyHeroStudio-estensione-0.12.41.tar.gz",
-      "sha256": "2d9983d4cff0633dde9c52aeea56189a71b621ea59dbdd7bec6a486df5aa6f55",
-      "size": 2343908,
-      "editor": "1.135.06055+cdd831fff9a4"
+      "name": "MyHeroStudio-estensione-0.12.42.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.42/MyHeroStudio-estensione-0.12.42.tar.gz",
+      "sha256": "3d0a01c311b9297360aad6f55d397acdd792a0c715d67fd9853ed98eaeb6a25b",
+      "size": 2352742,
+      "editor": "1.135.06055+2c23780586d6"
     }
   },
-  "signature": "OJDdWBD5FptCnW+wEJ5uvwc3KDnRal9eu3uYKc51acO5g7Fi6hkFqP5iPOLd8ZUgH7qLISx4VO5s8/Y2Si1WBg=="
+  "signature": "Irod7Z1pmzIKMN3GGlnL3yCnLVJkN+7i8d8lg0OgDrMLJdAVAwGiClbpFOxduM5JVkyFyhOnmW34kdCz4NFcAQ=="
 }
