@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.40",
+    "version": "0.12.41",
     "channel": "stable",
     "date": "2026-10-28",
-    "notes": "Nuova scheda «Routine» accanto a Skills per le routine di Claude nel cloud, con «Apri nel browser esterno». I link si aprono nel browser integrato. Le Impostazioni non si ricaricano più all'avvio e la barra di destra non torna da sola alle Impostazioni.",
+    "notes": "Claude risponde nella lingua dell'interfaccia di MyHeroStudio (impostazione ufficiale «language» di Claude Code nel profilo del progetto).",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.40-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.40/MyHeroStudio-Setup-0.12.40-x64.exe",
-      "sha256": "e21f4c58e3cc549900223245d27b28afced3f5ea0c04c6a6c318100375d83594",
-      "size": 176135050
+      "name": "MyHeroStudio-Setup-0.12.41-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.41/MyHeroStudio-Setup-0.12.41-x64.exe",
+      "sha256": "fcd2e5a51f1b5d9a81589cb8ad486794ba3ec3e4a7d79af0985bd4a11badf5c6",
+      "size": 176125526
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.40.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.40/MyHeroStudio-estensione-0.12.40.tar.gz",
-      "sha256": "3a9237d0063b3cfd0b0328e0fe750db8580813482bd5466730c7cfa7d7567617",
-      "size": 2350978,
-      "editor": "1.135.06055+ec74f72bf97d"
+      "name": "MyHeroStudio-estensione-0.12.41.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.41/MyHeroStudio-estensione-0.12.41.tar.gz",
+      "sha256": "2d9983d4cff0633dde9c52aeea56189a71b621ea59dbdd7bec6a486df5aa6f55",
+      "size": 2343908,
+      "editor": "1.135.06055+cdd831fff9a4"
     }
   },
-  "signature": "jW8+6qwYrLXuR0gVqvcvHGxz3TkUsNYb2hKjznLN3+yTgo/NfacJ7RcGEPVPGlphFfhLLi8xdMW2zHSxMQLuBA=="
+  "signature": "OJDdWBD5FptCnW+wEJ5uvwc3KDnRal9eu3uYKc51acO5g7Fi6hkFqP5iPOLd8ZUgH7qLISx4VO5s8/Y2Si1WBg=="
 }
