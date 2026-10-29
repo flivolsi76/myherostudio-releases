@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.43",
+    "version": "0.12.44",
     "channel": "stable",
     "date": "2026-10-29",
-    "notes": "Nuova linguetta «Conferme»: scegli tu per quali azioni del browser integrato (aprire una pagina, cambiare indirizzo, agire nella pagina con Playwright) Claude ti chiede conferma. Spenta, non chiede più niente.",
+    "notes": "L'installazione ora mostra il contratto di licenza da accettare. Condizioni d'uso aggiornate sul sito.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.43-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.43/MyHeroStudio-Setup-0.12.43-x64.exe",
-      "sha256": "b613cb00d32d67f538cfa36b4ad299366c2a2d42549af1e3848eb8946567689c",
-      "size": 176131027
+      "name": "MyHeroStudio-Setup-0.12.44-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.44/MyHeroStudio-Setup-0.12.44-x64.exe",
+      "sha256": "2ac2c65adaf7ae56e2fffaaa62bdb351b2615081fbae79723bb9212e7795a7d2",
+      "size": 176136417
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.43.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.43/MyHeroStudio-estensione-0.12.43.tar.gz",
-      "sha256": "9ff1a601a43204e14d9c9ef251e104c67eedec2faa2fe6ff7453433624b1dc26",
-      "size": 2349941,
+      "name": "MyHeroStudio-estensione-0.12.44.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.44/MyHeroStudio-estensione-0.12.44.tar.gz",
+      "sha256": "f7f8352a230a0534044ea822d174ae8cfbc40d923d14c73a6381a3528064905b",
+      "size": 2354200,
       "editor": "1.135.06055+2c23780586d6"
     }
   },
-  "signature": "/iXMF2PqVPVA+vRfMIfnEw2FSEjbOGbwNB0DjCCuDzFItQHCp3RexvhkPzE1dW1pqNM9ob/4YP3ycQPU5s/YBA=="
+  "signature": "MwvLhsbJqDngcGKzclZUmwCR27Vj13lRwtQfGjs/BVIIkolaurY1GHWOH4bzxhGf+8KV6QUIFklI3TXWr6wZBA=="
 }
