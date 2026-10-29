@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.42",
+    "version": "0.12.43",
     "channel": "stable",
-    "date": "2026-10-28",
-    "notes": "Licenze a vita: il programma le mostra come «Licenza a vita». Da questa versione gli aggiornamenti successivi tornano leggeri (solo l'estensione).",
+    "date": "2026-10-29",
+    "notes": "Nuova linguetta «Conferme»: scegli tu per quali azioni del browser integrato (aprire una pagina, cambiare indirizzo, agire nella pagina con Playwright) Claude ti chiede conferma. Spenta, non chiede più niente.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.42-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.42/MyHeroStudio-Setup-0.12.42-x64.exe",
-      "sha256": "5b51b32129f5c77dd59c029c113a5cde0f0d1fc6f5853f18f279ede814658481",
-      "size": 176133157
+      "name": "MyHeroStudio-Setup-0.12.43-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.43/MyHeroStudio-Setup-0.12.43-x64.exe",
+      "sha256": "b613cb00d32d67f538cfa36b4ad299366c2a2d42549af1e3848eb8946567689c",
+      "size": 176131027
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.42.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.42/MyHeroStudio-estensione-0.12.42.tar.gz",
-      "sha256": "3d0a01c311b9297360aad6f55d397acdd792a0c715d67fd9853ed98eaeb6a25b",
-      "size": 2352742,
+      "name": "MyHeroStudio-estensione-0.12.43.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.43/MyHeroStudio-estensione-0.12.43.tar.gz",
+      "sha256": "9ff1a601a43204e14d9c9ef251e104c67eedec2faa2fe6ff7453433624b1dc26",
+      "size": 2349941,
       "editor": "1.135.06055+2c23780586d6"
     }
   },
-  "signature": "Irod7Z1pmzIKMN3GGlnL3yCnLVJkN+7i8d8lg0OgDrMLJdAVAwGiClbpFOxduM5JVkyFyhOnmW34kdCz4NFcAQ=="
+  "signature": "/iXMF2PqVPVA+vRfMIfnEw2FSEjbOGbwNB0DjCCuDzFItQHCp3RexvhkPzE1dW1pqNM9ob/4YP3ycQPU5s/YBA=="
 }
