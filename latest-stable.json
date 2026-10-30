@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.12.45",
+    "version": "0.13.0",
     "channel": "stable",
     "date": "2026-10-30",
-    "notes": "Gmail, Google Drive e Google Calendar nella linguetta MCP; nuova regola suggerita per proteggere chiavi e segreti; tasto destro «Apri con il lettore di Windows» sui file audio e video.",
+    "notes": "MyHeroStudio ora è gratis per sempre nella versione Free e non si ferma più per la licenza. Pro (mensile, a vita o prova di 30 giorni scelta da te) aggiunge server, agenti, metodo a ruoli, routine, ticket, catalogo MCP con un clic, regole avanzate ed esportazione. Le protezioni, la Storia, l'annullamento, la mappa e il browser integrato restano in Free.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.12.45-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.45/MyHeroStudio-Setup-0.12.45-x64.exe",
-      "sha256": "d0ca4370d0dea1bc70de2652af07c40a0fb8b29b1aa9f2d11be7d10866cee7d1",
-      "size": 176145821
+      "name": "MyHeroStudio-Setup-0.13.0-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.13.0/MyHeroStudio-Setup-0.13.0-x64.exe",
+      "sha256": "e0a5718f769c56065044fd977e90a4b5b76e960fb3380b80ed0da276dcbb5653",
+      "size": 176149477
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.12.45.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.12.45/MyHeroStudio-estensione-0.12.45.tar.gz",
-      "sha256": "c631fe03c9f484b2e68d7dbc2ebae2e7380db8f4802eadd945f66609445ab92a",
-      "size": 2363263,
+      "name": "MyHeroStudio-estensione-0.13.0.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.13.0/MyHeroStudio-estensione-0.13.0.tar.gz",
+      "sha256": "f64e8a262b9f60fc33390a1b5ab24168baa9ced712724cde40358a10c0ec60b7",
+      "size": 2373727,
       "editor": "1.135.06055+2c23780586d6"
     }
   },
-  "signature": "PweGLCSCShowbvY8+XtF9IqYnCUSbyPgQebP85XXWiSGbJ4dGumIMs5Ax9rF5fHq2RtI5Z5KLhtEA9E1Xo/jCA=="
+  "signature": "2HmnyuDXKC5FVNWG1gwqh4uUa9K0Vc8ABk8JBAFq3quOjIs2McjEEgdAT/zIxMRQU4DQisVjsPGnOl11bjPIAg=="
 }
