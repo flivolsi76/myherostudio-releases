@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.1",
+    "version": "0.14.2",
     "channel": "stable",
     "date": "2026-10-31",
-    "notes": "L'installazione in italiano ora parte in italiano. Pro si acquista direttamente (niente più prova di 30 giorni). Server del progetto: FTP/FTPS e database MySQL/MariaDB e PostgreSQL (anche tramite il server SSH). Linguetta Conferme: interruttore per non far chiedere conferma a Claude su comandi rischiosi e nuove librerie.",
+    "notes": "Pulsante «Passa alla versione Pro» con i passi per l'acquisto: ora apre la pagina di pagamento nel browser (prima poteva aprire la cartella Documenti).",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.1-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.1/MyHeroStudio-Setup-0.14.1-x64.exe",
-      "sha256": "0d43026db5591f6910bb8c5d90c5cd7c3129892f4648c9653a26c62c0ba9eae5",
-      "size": 177195249
+      "name": "MyHeroStudio-Setup-0.14.2-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.2/MyHeroStudio-Setup-0.14.2-x64.exe",
+      "sha256": "ad74ff6ae66c090a9792a492edd96370954c842f368da94bc8df74ef3160ce96",
+      "size": 177091625
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.1.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.1/MyHeroStudio-estensione-0.14.1.tar.gz",
-      "sha256": "453fad0810ab192adf7da50ba1d58f2c3489e9b9dbe0ff43758efc82e2fd2a7d",
-      "size": 3816310,
+      "name": "MyHeroStudio-estensione-0.14.2.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.2/MyHeroStudio-estensione-0.14.2.tar.gz",
+      "sha256": "d72a81a7192753ce2e08d881fc13b0791fde09b1eae0a2ff10ddde77f3f7c11b",
+      "size": 3681038,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "m6xeQds5D1gsCdj7HQSAngewYRDy3SAHGdSTrR+A/6zgT8ompG68xgb9QCvlzkUwEORdHHd6cwmJPtC9JWkxAQ=="
+  "signature": "TNIaAjEFMeO1e6YrEbNbe/9B1aMeXkGONGjtcuPzKopgkQCjXJKl8HvebDTr13s8nk3R3BV3rHtYHnhuK9ijAg=="
 }
