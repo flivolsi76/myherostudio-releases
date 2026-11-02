@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.3",
+    "version": "0.14.4",
     "channel": "stable",
     "date": "2026-11-02",
-    "notes": "Protezione Pro più robusta; conteggio anonimo delle installazioni (si può rifiutare); proposta delle skill adatte alla prima apertura di un progetto nuovo; pagina Skill: «Trova le skill adatte a questo progetto».",
+    "notes": "Credenziali protette dall'IA: Claude non può leggere password dei server, chiavi private e chiavi API; le password dei server e le chiavi API sono cifrate anche da MyHeroStudio.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.3-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.3/MyHeroStudio-Setup-0.14.3-x64.exe",
-      "sha256": "f5ed8523c38761547f024bbbedef12f183fd2142dfb22d164bf849042e0bad6c",
-      "size": 177094818
+      "name": "MyHeroStudio-Setup-0.14.4-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.4/MyHeroStudio-Setup-0.14.4-x64.exe",
+      "sha256": "d9994acedff5ed5e778539fd17eb910ae67c79492e2a4dc3fed87096cbed5511",
+      "size": 177099993
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.3.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.3/MyHeroStudio-estensione-0.14.3.tar.gz",
-      "sha256": "a5cc1457efcb5aeeb65a18eb54c70a7feea7cbf9ec149433146e1871955d939c",
-      "size": 3683553,
+      "name": "MyHeroStudio-estensione-0.14.4.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.4/MyHeroStudio-estensione-0.14.4.tar.gz",
+      "sha256": "70bf99b97516af044f3e9cd4404dcbf07c6a5ad659b7bb4d12a7aabf5c8e2b97",
+      "size": 3692678,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "Yk5XmMZQzAEoTA2Yj1PGJRRzVZXRyXnH+JHfdsRXvney42RhjWPYu/0BYqmP3F63kiO5ZR150iL5c/PiA0jyDQ=="
+  "signature": "zsjnFiSzrJde6skFsskATt6ewmb/EUh80/A37aZ3FH8iycR2rkB2bKo/C9PznMGuiFB9cUxjU3/eQAo+5rv9Cg=="
 }
