@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.2",
+    "version": "0.14.3",
     "channel": "stable",
-    "date": "2026-10-31",
-    "notes": "Pulsante «Passa alla versione Pro» con i passi per l'acquisto: ora apre la pagina di pagamento nel browser (prima poteva aprire la cartella Documenti).",
+    "date": "2026-11-02",
+    "notes": "Protezione Pro più robusta; conteggio anonimo delle installazioni (si può rifiutare); proposta delle skill adatte alla prima apertura di un progetto nuovo; pagina Skill: «Trova le skill adatte a questo progetto».",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.2-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.2/MyHeroStudio-Setup-0.14.2-x64.exe",
-      "sha256": "ad74ff6ae66c090a9792a492edd96370954c842f368da94bc8df74ef3160ce96",
-      "size": 177091625
+      "name": "MyHeroStudio-Setup-0.14.3-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.3/MyHeroStudio-Setup-0.14.3-x64.exe",
+      "sha256": "f5ed8523c38761547f024bbbedef12f183fd2142dfb22d164bf849042e0bad6c",
+      "size": 177094818
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.2.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.2/MyHeroStudio-estensione-0.14.2.tar.gz",
-      "sha256": "d72a81a7192753ce2e08d881fc13b0791fde09b1eae0a2ff10ddde77f3f7c11b",
-      "size": 3681038,
+      "name": "MyHeroStudio-estensione-0.14.3.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.3/MyHeroStudio-estensione-0.14.3.tar.gz",
+      "sha256": "a5cc1457efcb5aeeb65a18eb54c70a7feea7cbf9ec149433146e1871955d939c",
+      "size": 3683553,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "TNIaAjEFMeO1e6YrEbNbe/9B1aMeXkGONGjtcuPzKopgkQCjXJKl8HvebDTr13s8nk3R3BV3rHtYHnhuK9ijAg=="
+  "signature": "Yk5XmMZQzAEoTA2Yj1PGJRRzVZXRyXnH+JHfdsRXvney42RhjWPYu/0BYqmP3F63kiO5ZR150iL5c/PiA0jyDQ=="
 }
