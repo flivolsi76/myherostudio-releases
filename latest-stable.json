@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.8",
+    "version": "0.14.9",
     "channel": "stable",
     "date": "2026-11-04",
-    "notes": "Pagina Skill: nei progetti nuovi mostra di nuovo tutto il catalogo ufficiale (prima solo le skill incluse) e, se il catalogo arriva vuoto, lo dice con il pulsante Riprova invece di restare su «Carico il catalogo».",
+    "notes": "Crea progetto e Importa progetto ora chiedono, come Apri progetto, se usare lo stesso accesso Claude del progetto aperto.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.8-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.8/MyHeroStudio-Setup-0.14.8-x64.exe",
-      "sha256": "2c990292d0510ac7597b06dcb4f74e876941fb07588040275da5e5720eafbcf5",
-      "size": 177237541
+      "name": "MyHeroStudio-Setup-0.14.9-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.9/MyHeroStudio-Setup-0.14.9-x64.exe",
+      "sha256": "8862ee5f159220161baa11e99194da148800546308e47a967efd0f63bebe0965",
+      "size": 177233073
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.8.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.8/MyHeroStudio-estensione-0.14.8.tar.gz",
-      "sha256": "51f6ac6446ff792775ff6568203901a8cc2592c5267f95c0aec0d39e40e25550",
-      "size": 3861110,
+      "name": "MyHeroStudio-estensione-0.14.9.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.9/MyHeroStudio-estensione-0.14.9.tar.gz",
+      "sha256": "16c0e052bb2d758f6c4da2bcf14bcbd338e96b7d67f4fd78766ab0acec429088",
+      "size": 3858488,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "TkpxQb2E0rWyf9WpwYJ8XTepaI42Ir7se9xqP+bShO3GW0G41ckqTuAp/9sIeTk06Qv3kMDh/7RXdwHRRwcHCw=="
+  "signature": "sOyGpqmVgsHLBnzcaMKbegF8xihztdS2OpK2h/NgCVPpoH3VOyvAKcSXocABDNGD4l6HCt3ux5dHpyb5m69FAw=="
 }
