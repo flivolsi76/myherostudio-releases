@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.5",
+    "version": "0.14.6",
     "channel": "stable",
     "date": "2026-11-04",
-    "notes": "Dopo un nuovo accesso a Claude le chat aperte si riaprono da sole; chiudendo l'ultima chat la colonna vuota sparisce e il centro si allarga. Codice più pulito.",
+    "notes": "Skill solo per questo progetto o per tutti; dopo «Trova le skill adatte» MyHeroStudio chiede quali installare e per quali progetti; pagina Skill con gruppi richiudibili.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.5-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.5/MyHeroStudio-Setup-0.14.5-x64.exe",
-      "sha256": "b07d5c6c8ee43a49cb70b5efdca200b944dd2b5322aadc6fbcaac22d9a3da156",
-      "size": 177103741
+      "name": "MyHeroStudio-Setup-0.14.6-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.6/MyHeroStudio-Setup-0.14.6-x64.exe",
+      "sha256": "0af62c5895ff18ffef32aed0a374fb01f2facd2f3a0f98b8c35af2c5a733f301",
+      "size": 177126524
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.5.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.5/MyHeroStudio-estensione-0.14.5.tar.gz",
-      "sha256": "7e90f30f504ad03cfa998c9c6fa27faeccba9c596e0913739134bb78c32f2318",
-      "size": 3691550,
+      "name": "MyHeroStudio-estensione-0.14.6.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.6/MyHeroStudio-estensione-0.14.6.tar.gz",
+      "sha256": "7db2e760ba8b1edd8b42c4d7e31382a25a0838715fd2dc5942c0320defe4404c",
+      "size": 3718219,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "uPmONpgaScw6i3+FjUEAXqddwWmPGWHPWiKAq2mrZ8PcxMi6DOqubs7p6XwO1oBF9iO0BLPFmWs3D3hyUN31Dg=="
+  "signature": "TD39viPil33wIOMR7DexAA1A18NBzCe9iPToVe+yRo1reZh4kTJbnzuvFdqAF/rfMbt19m10idrv2rzVFVnEBw=="
 }
