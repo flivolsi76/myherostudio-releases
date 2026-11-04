@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.4",
+    "version": "0.14.5",
     "channel": "stable",
-    "date": "2026-11-02",
-    "notes": "Credenziali protette dall'IA: Claude non può leggere password dei server, chiavi private e chiavi API; le password dei server e le chiavi API sono cifrate anche da MyHeroStudio.",
+    "date": "2026-11-04",
+    "notes": "Dopo un nuovo accesso a Claude le chat aperte si riaprono da sole; chiudendo l'ultima chat la colonna vuota sparisce e il centro si allarga. Codice più pulito.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.4-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.4/MyHeroStudio-Setup-0.14.4-x64.exe",
-      "sha256": "d9994acedff5ed5e778539fd17eb910ae67c79492e2a4dc3fed87096cbed5511",
-      "size": 177099993
+      "name": "MyHeroStudio-Setup-0.14.5-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.5/MyHeroStudio-Setup-0.14.5-x64.exe",
+      "sha256": "b07d5c6c8ee43a49cb70b5efdca200b944dd2b5322aadc6fbcaac22d9a3da156",
+      "size": 177103741
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.4.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.4/MyHeroStudio-estensione-0.14.4.tar.gz",
-      "sha256": "70bf99b97516af044f3e9cd4404dcbf07c6a5ad659b7bb4d12a7aabf5c8e2b97",
-      "size": 3692678,
+      "name": "MyHeroStudio-estensione-0.14.5.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.5/MyHeroStudio-estensione-0.14.5.tar.gz",
+      "sha256": "7e90f30f504ad03cfa998c9c6fa27faeccba9c596e0913739134bb78c32f2318",
+      "size": 3691550,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "zsjnFiSzrJde6skFsskATt6ewmb/EUh80/A37aZ3FH8iycR2rkB2bKo/C9PznMGuiFB9cUxjU3/eQAo+5rv9Cg=="
+  "signature": "uPmONpgaScw6i3+FjUEAXqddwWmPGWHPWiKAq2mrZ8PcxMi6DOqubs7p6XwO1oBF9iO0BLPFmWs3D3hyUN31Dg=="
 }
