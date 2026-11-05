@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.10",
+    "version": "0.14.11",
     "channel": "stable",
     "date": "2026-11-05",
-    "notes": "Cambio lingua: MyHeroStudio ora si riavvia davvero (prima si chiudeva e basta). Apri progetto chiede sempre se usare lo stesso accesso Claude del progetto aperto, anche per un progetto che ne ha già uno.",
+    "notes": "Nuova linguetta «Progetto»: dati del progetto e descrizione scritta da Claude su richiesta (marcata come testo dell'IA), che ogni chat nuova legge all'inizio. Account: un progetto che usa l'accesso di un altro mostra l'account vero.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.10-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.10/MyHeroStudio-Setup-0.14.10-x64.exe",
-      "sha256": "7d10a0f3594dddcb44bc90a50c34808cc9313829b44b9bed369839c5caba870a",
-      "size": 177132766
+      "name": "MyHeroStudio-Setup-0.14.11-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.11/MyHeroStudio-Setup-0.14.11-x64.exe",
+      "sha256": "e53c1b84ecc63be8532f97aecac5a5b1381737a3211dac4ee4c6f827acdf990b",
+      "size": 177139061
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.10.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.10/MyHeroStudio-estensione-0.14.10.tar.gz",
-      "sha256": "97e6a9f453db59ae4412ecdbfc76f719f4709fe89855cff6476911a2708a18a6",
-      "size": 3717626,
+      "name": "MyHeroStudio-estensione-0.14.11.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.11/MyHeroStudio-estensione-0.14.11.tar.gz",
+      "sha256": "bae0d8f886636866e303afc0d3646175083c195449b18e3725e8ae6c87dd12d0",
+      "size": 3727374,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "2SB8bp06CG4GlUs83N/HGxfd3s/wYrNMKd++Xt76hxnOEqB4nx8ba78rwb9lwOjwVjPbfAYT2af3E/kkzDLyAg=="
+  "signature": "SVyyr1t2HadsRNp4NlhOOIT0zg8dhlVwaBBDOhptpNcneXEQ95sy4SQrRYCWmUZ6AAPafgf3K0FWKF/H23WpAQ=="
 }
