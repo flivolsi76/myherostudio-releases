@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.11",
+    "version": "0.14.12",
     "channel": "stable",
     "date": "2026-11-05",
-    "notes": "Nuova linguetta «Progetto»: dati del progetto e descrizione scritta da Claude su richiesta (marcata come testo dell'IA), che ogni chat nuova legge all'inizio. Account: un progetto che usa l'accesso di un altro mostra l'account vero.",
+    "notes": "Metodo a più ruoli: l'operatore presenta il piano e tu lo approvi prima che modifichi i file; nuovi tentativi dei ruoli visibili nella storia; testo del revisore più preciso.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.11-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.11/MyHeroStudio-Setup-0.14.11-x64.exe",
-      "sha256": "e53c1b84ecc63be8532f97aecac5a5b1381737a3211dac4ee4c6f827acdf990b",
-      "size": 177139061
+      "name": "MyHeroStudio-Setup-0.14.12-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.12/MyHeroStudio-Setup-0.14.12-x64.exe",
+      "sha256": "29305ee57639c2521703fd0fa985ab3cb25d12db771c94e8765bfa3b3530b592",
+      "size": 177155255
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.11.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.11/MyHeroStudio-estensione-0.14.11.tar.gz",
-      "sha256": "bae0d8f886636866e303afc0d3646175083c195449b18e3725e8ae6c87dd12d0",
-      "size": 3727374,
+      "name": "MyHeroStudio-estensione-0.14.12.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.12/MyHeroStudio-estensione-0.14.12.tar.gz",
+      "sha256": "88ff5085153e4509517bc3b8e17c1d241939bc24d87fd823f617460560ad933f",
+      "size": 3751523,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "SVyyr1t2HadsRNp4NlhOOIT0zg8dhlVwaBBDOhptpNcneXEQ95sy4SQrRYCWmUZ6AAPafgf3K0FWKF/H23WpAQ=="
+  "signature": "L6JybqGpgMErAceL+1QJraQTQx6A86E7lLBJ1LashKT+Ak5t3VeEkJuAJBa++cHBkww2/WK28OhueH0eTztgCQ=="
 }
