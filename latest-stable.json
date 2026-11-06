@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.12",
+    "version": "0.14.13",
     "channel": "stable",
-    "date": "2026-11-05",
-    "notes": "Metodo a più ruoli: l'operatore presenta il piano e tu lo approvi prima che modifichi i file; nuovi tentativi dei ruoli visibili nella storia; testo del revisore più preciso.",
+    "date": "2026-11-06",
+    "notes": "Diario del progetto più leggero in ogni chat (ultime 20 richieste, senza ripetizioni); i file con fine riga CRLF cambiati dalla shell non risultano più cambiati per intero e Annulla non li riscrive con fine riga LF.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.12-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.12/MyHeroStudio-Setup-0.14.12-x64.exe",
-      "sha256": "29305ee57639c2521703fd0fa985ab3cb25d12db771c94e8765bfa3b3530b592",
-      "size": 177155255
+      "name": "MyHeroStudio-Setup-0.14.13-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.13/MyHeroStudio-Setup-0.14.13-x64.exe",
+      "sha256": "7e5d37a77003478e466e85f671e61ba6373d5f5c2e084bd47137bc803e4f1a98",
+      "size": 177151035
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.12.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.12/MyHeroStudio-estensione-0.14.12.tar.gz",
-      "sha256": "88ff5085153e4509517bc3b8e17c1d241939bc24d87fd823f617460560ad933f",
-      "size": 3751523,
+      "name": "MyHeroStudio-estensione-0.14.13.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.13/MyHeroStudio-estensione-0.14.13.tar.gz",
+      "sha256": "1fb6f65380d0bf78417c87fe7882a7c1aa42ed01ea675c3b23b4278b07f60b60",
+      "size": 3743410,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "L6JybqGpgMErAceL+1QJraQTQx6A86E7lLBJ1LashKT+Ak5t3VeEkJuAJBa++cHBkww2/WK28OhueH0eTztgCQ=="
+  "signature": "+4yXOJuwCAC1fHBdSHIER9fYtWbp6V/pD7AjctUtcOxD5q1LMKLKzCoUBZ2B+f0xF7UBlM7wz3/lbLmWn8HjBQ=="
 }
