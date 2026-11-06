@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.13",
+    "version": "0.14.14",
     "channel": "stable",
     "date": "2026-11-06",
-    "notes": "Diario del progetto più leggero in ogni chat (ultime 20 richieste, senza ripetizioni); i file con fine riga CRLF cambiati dalla shell non risultano più cambiati per intero e Annulla non li riscrive con fine riga LF.",
+    "notes": "Possibilità di MyHeroStudio Pro gratuito per tutti, decisa da MyHeroSoft, con richiesta di donazione all'avvio («Ho già donato» la toglie). Oggi l'offerta è spenta.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.13-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.13/MyHeroStudio-Setup-0.14.13-x64.exe",
-      "sha256": "7e5d37a77003478e466e85f671e61ba6373d5f5c2e084bd47137bc803e4f1a98",
-      "size": 177151035
+      "name": "MyHeroStudio-Setup-0.14.14-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.14/MyHeroStudio-Setup-0.14.14-x64.exe",
+      "sha256": "7885e838042e0f7547f4bda81ebfd9c02fa0e2d8066ee715482fcf59826ce738",
+      "size": 177142431
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.13.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.13/MyHeroStudio-estensione-0.14.13.tar.gz",
-      "sha256": "1fb6f65380d0bf78417c87fe7882a7c1aa42ed01ea675c3b23b4278b07f60b60",
-      "size": 3743410,
+      "name": "MyHeroStudio-estensione-0.14.14.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.14/MyHeroStudio-estensione-0.14.14.tar.gz",
+      "sha256": "09f02b7949a6899239cfa74454e59fd2a11ec72b013d4910ef8fef486b69be61",
+      "size": 3755629,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "+4yXOJuwCAC1fHBdSHIER9fYtWbp6V/pD7AjctUtcOxD5q1LMKLKzCoUBZ2B+f0xF7UBlM7wz3/lbLmWn8HjBQ=="
+  "signature": "objz57ybG2bVjz/2cXcBeI0q6qk3gMy0eV3domymj96gWCf5KIe1fuHFi8Fj00OQhnIuQDubGK31RDL467UXCA=="
 }
