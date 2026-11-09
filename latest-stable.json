@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.14",
+    "version": "0.14.15",
     "channel": "stable",
-    "date": "2026-11-06",
-    "notes": "Possibilità di MyHeroStudio Pro gratuito per tutti, decisa da MyHeroSoft, con richiesta di donazione all'avvio («Ho già donato» la toglie). Oggi l'offerta è spenta.",
+    "date": "2026-11-09",
+    "notes": "Pro gratuito con donazioni o vendita delle licenze, scelto dal sito e letto a ogni avvio; le chat e le linguette non restano nere dopo lo standby.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.14-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.14/MyHeroStudio-Setup-0.14.14-x64.exe",
-      "sha256": "7885e838042e0f7547f4bda81ebfd9c02fa0e2d8066ee715482fcf59826ce738",
-      "size": 177142431
+      "name": "MyHeroStudio-Setup-0.14.15-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.15/MyHeroStudio-Setup-0.14.15-x64.exe",
+      "sha256": "c5a5d900bebdb98363fb5643006aaa085253f58ea6da71ba4d715ad43cd23b95",
+      "size": 177261513
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.14.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.14/MyHeroStudio-estensione-0.14.14.tar.gz",
-      "sha256": "09f02b7949a6899239cfa74454e59fd2a11ec72b013d4910ef8fef486b69be61",
-      "size": 3755629,
+      "name": "MyHeroStudio-estensione-0.14.15.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.15/MyHeroStudio-estensione-0.14.15.tar.gz",
+      "sha256": "837b706bf6c90628826412c5ee718296f306544e8ca9935f64c4fed7802bdcfa",
+      "size": 3897693,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "objz57ybG2bVjz/2cXcBeI0q6qk3gMy0eV3domymj96gWCf5KIe1fuHFi8Fj00OQhnIuQDubGK31RDL467UXCA=="
+  "signature": "INHtkOoFVd2GhUAT+azVVggmChy8dIqjFet9Fny2od+Xrtx0TF48kb90iMAo1R0yelJ+JHN7l2FaZXRS5LjqAQ=="
 }
