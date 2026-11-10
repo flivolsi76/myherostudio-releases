@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.15",
+    "version": "0.14.16",
     "channel": "stable",
-    "date": "2026-11-09",
-    "notes": "Pro gratuito con donazioni o vendita delle licenze, scelto dal sito e letto a ogni avvio; le chat e le linguette non restano nere dopo lo standby.",
+    "date": "2026-11-10",
+    "notes": "La pagina della licenza in sviluppo dice «Versione di sviluppo». Le finestre si ricaricano solo al risveglio dallo standby, non più dopo una lunga assenza (le chat restano aperte); dopo lo standby si ridisegna anche la barra delle Impostazioni.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.15-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.15/MyHeroStudio-Setup-0.14.15-x64.exe",
-      "sha256": "c5a5d900bebdb98363fb5643006aaa085253f58ea6da71ba4d715ad43cd23b95",
-      "size": 177261513
+      "name": "MyHeroStudio-Setup-0.14.16-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.16/MyHeroStudio-Setup-0.14.16-x64.exe",
+      "sha256": "483f41f693bc1b8ec960f0042bf4fdfe8d78cd0cc48a0130e5c89e7c64497b2a",
+      "size": 177155337
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.15.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.15/MyHeroStudio-estensione-0.14.15.tar.gz",
-      "sha256": "837b706bf6c90628826412c5ee718296f306544e8ca9935f64c4fed7802bdcfa",
-      "size": 3897693,
+      "name": "MyHeroStudio-estensione-0.14.16.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.16/MyHeroStudio-estensione-0.14.16.tar.gz",
+      "sha256": "12ac5d919ba52fb1e4d81d1ebaae6ba13436c62a4fa79f1196c4b6878f68ba8a",
+      "size": 3747099,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "INHtkOoFVd2GhUAT+azVVggmChy8dIqjFet9Fny2od+Xrtx0TF48kb90iMAo1R0yelJ+JHN7l2FaZXRS5LjqAQ=="
+  "signature": "ZNZl8uWTNAiHVcFb1OJxXkx4uwoqTFLaLGvIli+wOSKECHxv+JapABU+d3+UNqrXjZ1BHyjAQo3VtsUiKrrcBQ=="
 }
