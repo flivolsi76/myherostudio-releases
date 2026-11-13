@@ -1,22 +1,22 @@
 {
   "release": {
-    "version": "0.14.16",
+    "version": "0.14.17",
     "channel": "stable",
-    "date": "2026-11-10",
-    "notes": "La pagina della licenza in sviluppo dice «Versione di sviluppo». Le finestre si ricaricano solo al risveglio dallo standby, non più dopo una lunga assenza (le chat restano aperte); dopo lo standby si ridisegna anche la barra delle Impostazioni.",
+    "date": "2026-11-13",
+    "notes": "I server MCP di MyHeroStudio (browser, server del progetto, skill) mantengono porta e token tra un avvio e l'altro: una chat aperta subito dopo l'avvio trova anche gli strumenti dei server.",
     "installer": {
-      "name": "MyHeroStudio-Setup-0.14.16-x64.exe",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.16/MyHeroStudio-Setup-0.14.16-x64.exe",
-      "sha256": "483f41f693bc1b8ec960f0042bf4fdfe8d78cd0cc48a0130e5c89e7c64497b2a",
-      "size": 177155337
+      "name": "MyHeroStudio-Setup-0.14.17-x64.exe",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.17/MyHeroStudio-Setup-0.14.17-x64.exe",
+      "sha256": "feb8325302eee7aa1bc0e6772b53cf4c216e7912f266a6f3b8cdef980f7bb33f",
+      "size": 177265257
     },
     "extension": {
-      "name": "MyHeroStudio-estensione-0.14.16.tar.gz",
-      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.16/MyHeroStudio-estensione-0.14.16.tar.gz",
-      "sha256": "12ac5d919ba52fb1e4d81d1ebaae6ba13436c62a4fa79f1196c4b6878f68ba8a",
-      "size": 3747099,
+      "name": "MyHeroStudio-estensione-0.14.17.tar.gz",
+      "url": "https://github.com/flivolsi76/myherostudio-releases/releases/download/v0.14.17/MyHeroStudio-estensione-0.14.17.tar.gz",
+      "sha256": "fdee0edbadf8a1cc006b8eb5ffb2a628d36e57f54e42cf31d8b205dfcce738cb",
+      "size": 3893578,
       "editor": "1.135.06055+0c1ba66edb40"
     }
   },
-  "signature": "ZNZl8uWTNAiHVcFb1OJxXkx4uwoqTFLaLGvIli+wOSKECHxv+JapABU+d3+UNqrXjZ1BHyjAQo3VtsUiKrrcBQ=="
+  "signature": "qRLsQ5qCFwr1Za3xfbguLBoddx80G3WzfoL5dhzqmLJWK5OLQSeRxsWYGCG8piWN2TVCVyBM73tKRei+u65JBQ=="
 }
